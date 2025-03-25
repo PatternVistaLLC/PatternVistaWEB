@@ -21,7 +21,7 @@
 
 ## **📜 Credits & License**
 - **🙏 Credits**
-**PatternVista** is developed and maintained by **PatternVista**.Main Company **PatternVista** is a company developed by ZenithisLLC, Special thanks to all contributors for making this platform awesome!
+**PatternVista** is developed and maintained by **PatternVista**.**PatternVista** is a company developed by it's core company, ZenithisLLC, Special thanks to all contributors for making this platform awesome!
 
   - **License**
   - PatternVista License
